@@ -6,7 +6,7 @@ CPU: Intel Core i5-8250U
 
 iGPU: Intel UHD 620
 
-dGPU: Radeon 520 (Not Working)
+dGPU: Radeon 520 (Not working, probably not compatible with macOS, disabled)
 
 Wireless/BT: Qualcomm QCA9377 (Replaced with Intel AX200)
 
