@@ -14,4 +14,4 @@ Tested on macOS Big Sur 11.5.1
 
 ![截屏2021-08-09 下午8 05 08](https://user-images.githubusercontent.com/17025286/128703451-72a19c20-6762-4839-ac70-30c6995eee71.png)
 
-Massive thanks to @sjllls and @zsakvo for helping.
+Massive thanks to [sjllls](https://github.com/sjllls) and [zsakvo](https://github.com/zsakvo) for helping.
