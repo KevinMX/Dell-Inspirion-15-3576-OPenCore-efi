@@ -20,7 +20,7 @@ SD Card Reader: Realtek/USB 2.0 (Not working)
 
 Brightness Control: Working but not via keyboard shortcut (Fn+F11/F12), you'll need to change it in system settings. More works needed.
 
-Touchpad: Partially working (can move around but cannot click)
+Touchpad: Working
 
 Tested on macOS Big Sur 11.5.1.
 
