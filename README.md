@@ -1,5 +1,7 @@
 # Dell-Inspirion-15-3576-OpenCore-EFI
 
+### Notice: I'm not using this and probably NOT gonna touch ANY Apple, Inc products in the near future, so I'm not actively maintaining this repo. Hence I'm not responsible for any potential damage to your own hardware. Use it at you own risk, good luck and have fun.
+
 EFI for Dell Inspiron 15-3576
 
 CPU: Intel Core i5-8250U
@@ -12,7 +14,7 @@ dGPU: AMD Radeon 520 (Not working, probably incompatible with macOS, disabled)
 
 Wireless/BT: Qualcomm QCA9377 (Incompatible, replaced with Intel AX200)
 
-You will need [Heliport](https://github.com/OpenIntelWireless/HeliPort) to get WiFi working on AX200.
+You will need [Heliport](https://github.com/OpenIntelWireless/HeliPort) to get WiFi working on AX200. Or, usr airportitlwm instead.
 
 Audio: Realtek ALC236 (Working)
 
