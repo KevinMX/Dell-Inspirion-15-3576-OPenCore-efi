@@ -14,7 +14,7 @@ dGPU: AMD Radeon 520 (Not working, probably incompatible with macOS, disabled)
 
 Wireless/BT: Qualcomm QCA9377 (Incompatible, replaced with Intel AX200)
 
-You will need [Heliport](https://github.com/OpenIntelWireless/HeliPort) to get WiFi working on AX200. Or, usr airportitlwm instead.
+You will need [Heliport](https://github.com/OpenIntelWireless/HeliPort) to get WiFi working on AX200. Or, use airportitlwm instead.
 
 Audio: Realtek ALC236 (Working)
 
